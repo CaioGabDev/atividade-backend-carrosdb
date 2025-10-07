@@ -7,7 +7,7 @@ CREATE TABLE Personagens (
     id SERIAL PRIMARY KEY,
     nome VARCHAR(100) NOT NULL,
     descricao TEXT NOT NULL,
-    imagem_url VARCHAR(255),
+    imagem_url VARCHAR(1000),
     filmes TEXT,
     curiosidades TEXT
 );
