@@ -22,7 +22,6 @@ Este é um projeto backend que gerencia um banco de dados de carros com funciona
    ```
 
 3. **Configure o banco de dados**
-   - Crie um banco de dados PostgreSQL chamado `carrosdb`
    - Execute o script SQL localizado em `src/database/schema.sql` para criar as tabelas necessárias
 
 4. **Configure as variáveis de ambiente**
